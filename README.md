@@ -13,7 +13,7 @@ I particularly worked on the Hardware side of and the Kickstarter-Style video fo
 
 The tools we used in the Hardware side:
 
-- Arduino Uno - coded using C#
+- Arduino Uno - coded using C++
 - GPS Module
 - Microphone
 - SD Card Module
@@ -22,7 +22,7 @@ The tools we used in the Hardware side:
 - Batteries
 
 The schematic circuit design is shown in the Fritzing file attached (Memoria.fzz).
-I coded the Arudino Uno in C# (C Sharp). The .ino file is attached.
+I coded the Arudino Uno in C++. The .ino file is attached.
 
 As for the Kickstarter-Style video, I did the following:
 
