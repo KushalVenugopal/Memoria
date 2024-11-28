@@ -21,7 +21,7 @@ The tools we used in the Hardware side:
 - Switches
 - Batteries
 
-The schematic circuit design is shown in the Fritzing file attached (Memoria.fzz)
+The schematic circuit design is shown in the Fritzing file attached (Memoria.fzz).
 I coded the Arudino Uno in C# (C Sharp). The .ino file is attached.
 
 As for the Kickstarter-Style video, I did the following:
