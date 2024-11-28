@@ -22,7 +22,7 @@ The tools we used in the Hardware side:
 - Batteries
 
 The schematic circuit design is shown in the Fritzing file attached (Memoria.fzz).
-I coded the Arudino Uno in C++. The .ino file is attached.
+I coded the Arudino Uno in C++ and the .ino file is attached.
 
 As for the Kickstarter-Style video, I did the following:
 
