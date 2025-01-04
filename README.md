@@ -24,7 +24,7 @@ The tools we used in the Hardware side:
 The schematic circuit design is shown in the Fritzing file attached (Memoria.fzz).
 I coded the Arudino Uno in C++ and the .ino file is attached.
 
-As for the Kickstarter-Style video, I did the following:
+As for the Kickstarter-Style video, I took care of the following:
 
 - Script and Screenplay writing
 - Location Recee and finalisation
@@ -33,6 +33,6 @@ As for the Kickstarter-Style video, I did the following:
 - Editing
 
 The editing was done using Adobe Premier Pro.
-The link to the video is in the file named kickstarter_video.txt
+The link to the video: https://drive.google.com/file/d/1HCcrE_3kEC3U5sSUG74Q00IUCli5dMna/view?usp=sharing
 
 The software side of the project was done using Reactjs. + Node.js
